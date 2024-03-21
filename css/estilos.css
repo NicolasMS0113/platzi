@@ -1,10 +1,16 @@
 body
 {
-    color: blue;
+    color: rebeccapurple;
     text-align:center;
-    font-family: "Arial";
+    font-family:"Courier";
     font-size: large;
 }
+#cabecera
+{
+    background-color: aqua;
+}
+
+
 #container
 {
     width: 70%;
