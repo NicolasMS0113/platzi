@@ -1,0 +1,18 @@
+body
+{
+    color: blue;
+    text-align:center;
+    font-family: "Arial";
+    font-size: large;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1xp solid #ddd;
+}
+#container h1
+{
+    font-size: 20px;
+}
