@@ -8,7 +8,14 @@ body
     padding: 0;
 }
 
-
+#cabecera
+{
+    background-color: rgb(226, 43, 171);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
 
 #container
 {
